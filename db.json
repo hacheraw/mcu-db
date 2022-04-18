@@ -1,0 +1,1959 @@
+{
+  "dates": [
+    {
+      "itemId": 1,
+      "dates": [
+        {
+          "human": "marzo 1942 - mayo 1945",
+          "start": "1942-03-01",
+          "end": "1945-05-31",
+          "description": null
+        },
+        {
+          "human": "abril 2011 (presente)",
+          "start": "2011-04-01",
+          "end": "2011-04-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 2,
+      "dates": [
+        {
+          "human": "marzo 1946",
+          "start": "1946-03-01",
+          "end": "1946-03-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 3,
+      "dates": [
+        {
+          "human": "abril - mayo 1946",
+          "start": "1946-04-01",
+          "end": "1945-05-31",
+          "description": "Temporada 1"
+        },
+        {
+          "human": "julio 1947",
+          "start": "1947-07-01",
+          "end": "1947-07-31",
+          "description": "Temporada 2"
+        }
+      ]
+    },
+    {
+      "itemId": 4,
+      "dates": [
+        {
+          "human": "junio 1995",
+          "start": "1995-06-01",
+          "end": "1995-06-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 5,
+      "dates": [
+        {
+          "human": "enero - mayo 2008",
+          "start": "2008-01-01",
+          "end": "2008-05-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 6,
+      "dates": [
+        {
+          "human": "mayo - junio 2011",
+          "start": "2011-05-01",
+          "end": "2011-06-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 7,
+      "dates": [
+        {
+          "human": "junio 2011",
+          "start": "2011-06-01",
+          "end": "2011-06-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 8,
+      "dates": [
+        {
+          "human": "junio 2011",
+          "start": "2011-06-01",
+          "end": "2011-06-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 9,
+      "dates": [
+        {
+          "human": "abril - julio 2011",
+          "start": "2011-04-01",
+          "end": "2011-07-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 10,
+      "dates": [
+        {
+          "human": "julio 2011",
+          "start": "2011-07-01",
+          "end": "2011-07-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 11,
+      "dates": [
+        {
+          "human": "mayo 2012",
+          "start": "2012-05-01",
+          "end": "2012-05-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 12,
+      "dates": [
+        {
+          "human": "mayo 2012",
+          "start": "2012-05-01",
+          "end": "2012-05-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 13,
+      "dates": [
+        {
+          "human": "diciembre 2012",
+          "start": "2012-12-01",
+          "end": "2012-12-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 14,
+      "dates": [
+        {
+          "human": "2013",
+          "start": "2013-01-01",
+          "end": "2013-12-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "septiembre - noviembre 2013",
+          "start": "2013-09-01",
+          "end": "2013-11-30",
+          "description": "Temporada 1 Ep. 1-7"
+        }
+      ]
+    },
+    {
+      "itemId": 16,
+      "dates": [
+        {
+          "human": "noviembre 2013",
+          "start": "2013-11-01",
+          "end": "2013-11-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "noviembre 2013 - enero 2014",
+          "start": "2013-11-01",
+          "end": "2014-01-31",
+          "description": "Temporada 1 Ep. 8-16"
+        }
+      ]
+    },
+    {
+      "itemId": 17,
+      "dates": [
+        {
+          "human": "enero 2014",
+          "start": "2014-01-01",
+          "end": "2014-01-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "enero 2014",
+          "start": "2014-01-01",
+          "end": "2014-01-31",
+          "description": "Temporada 1 Ep. 17-22"
+        },
+        {
+          "human": "abril 2014",
+          "start": "2014-04-01",
+          "end": "2014-04-30",
+          "description": "Temporada 2 Ep. 1-2"
+        }
+      ]
+    },
+    {
+      "itemId": 18,
+      "dates": [
+        {
+          "human": "2014",
+          "start": "2014-01-01",
+          "end": "2014-12-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "2014",
+          "start": "2014-05-01",
+          "end": "2014-12-31",
+          "description": "Temporada 2 Ep. 3"
+        }
+      ]
+    },
+    {
+      "itemId": 19,
+      "dates": [
+        {
+          "human": "2014",
+          "start": "2014-01-01",
+          "end": "2014-12-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 20,
+      "dates": [
+        {
+          "human": "2014",
+          "start": "2014-01-01",
+          "end": "2014-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 21,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-01-01",
+          "end": "2015-03-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-03-01",
+          "end": "2015-03-31",
+          "description": "Temporada 2 Ep. 4-19"
+        }
+      ]
+    },
+    {
+      "itemId": 22,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-04-01",
+          "end": "2015-05-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-04-01",
+          "end": "2015-04-30",
+          "description": "Temporada 2 Ep. 20-22"
+        }
+      ]
+    },
+    {
+      "itemId": 23,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-07-01",
+          "end": "2015-07-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 20,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-07-01",
+          "end": "2017-07-31",
+          "description": "Temporada 2 Ep. 1-6"
+        }
+      ]
+    },
+    {
+      "itemId": 24,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-09-01",
+          "end": "2015-10-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-10-01",
+          "end": "2015-11-30",
+          "description": "Temporada 3 Ep. 1-8"
+        }
+      ]
+    },
+    {
+      "itemId": 20,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-11-01",
+          "end": "2017-11-30",
+          "description": "Temporada 2 Ep. 7-13"
+        }
+      ]
+    },
+    {
+      "itemId": 25,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-11-01",
+          "end": "2017-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2015-12-01",
+          "end": "2016-03-31",
+          "description": "Temporada 3 Ep. 9-19"
+        }
+      ]
+    },
+    {
+      "itemId": 23,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-03-01",
+          "end": "2016-03-31",
+          "description": "Temporada 2"
+        }
+      ]
+    },
+    {
+      "itemId": 26,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-03-01",
+          "end": "2016-04-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-04-01",
+          "end": "2016-04-30",
+          "description": "Temporada 3 Ep. 20-22"
+        }
+      ]
+    },
+    {
+      "itemId": 27,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-04-01",
+          "end": "2016-04-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 28,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-04-01",
+          "end": "2016-04-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 29,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-06-01",
+          "end": "2016-07-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 30,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-01-01",
+          "end": "2016-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 31,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-10-01",
+          "end": "2016-10-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 32,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-11-01",
+          "end": "2016-11-30",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 33,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-11-01",
+          "end": "2016-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 34,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2016-02-01",
+          "end": "2017-02-28",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 35,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-02-01",
+          "end": "2017-03-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-04-01",
+          "end": "2017-04-30",
+          "description": "Temporada 4 Ep. 1-8"
+        }
+      ]
+    },
+    {
+      "itemId": 36,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-04-01",
+          "end": "2017-04-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-04-01",
+          "end": "2017-04-30",
+          "description": "Temporada 4 Ep. 9-12"
+        }
+      ]
+    },
+    {
+      "itemId": 21,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-04-01",
+          "end": "2017-05-31",
+          "description": "Temporada 2"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-05-01",
+          "end": "2017-05-31",
+          "description": "Temporada 4 Ep. 13-22"
+        }
+      ]
+    },
+    {
+      "itemId": 25,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-08-01",
+          "end": "2017-09-30",
+          "description": "Temporada 2"
+        }
+      ]
+    },
+    {
+      "itemId": 20,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-10-01",
+          "end": "2017-10-31",
+          "description": "Temporada 3"
+        }
+      ]
+    },
+    {
+      "itemId": 35,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-10-01",
+          "end": "2017-11-30",
+          "description": "Temporada 2"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-10-01",
+          "end": "2017-10-31",
+          "description": "Viaje al futuro (2091) y vuelta al presente - Temporada 5 Ep. 1-10"
+        }
+      ]
+    },
+    {
+      "itemId": 37,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-11-01",
+          "end": "2017-11-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-12-01",
+          "end": "2017-12-31",
+          "description": "Temporada 5 Ep. 11-13"
+        }
+      ]
+    },
+    {
+      "itemId": 38,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2017-12-01",
+          "end": "2017-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 29,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-01-01",
+          "end": "2018-01-31",
+          "description": "Temporada 2 - Ep. 1-7"
+        }
+      ]
+    },
+    {
+      "itemId": 38,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-01-01",
+          "end": "2018-01-31",
+          "description": "Temporada 2 + Temporada 3 - Ep. 1-4"
+        }
+      ]
+    },
+    {
+      "itemId": 29,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-02-01",
+          "end": "2018-02-28",
+          "description": "Temporada 2 - Ep. 8-10"
+        }
+      ]
+    },
+    {
+      "itemId": 21,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-01-01",
+          "end": "2018-12-31",
+          "description": "Temporada 3"
+        }
+      ]
+    },
+    {
+      "itemId": 33,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-04-01",
+          "end": "2018-04-30",
+          "description": "Temporada 2 - Ep. 1-5"
+        }
+      ]
+    },
+    {
+      "itemId": 39,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-04-01",
+          "end": "2018-05-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 33,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-05-01",
+          "end": "2018-05-31",
+          "description": "Temporada 2 - Ep. 6-13"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-05-01",
+          "end": "2018-05-31",
+          "description": "Temporada 5 Ep. 14-22"
+        }
+      ]
+    },
+    {
+      "itemId": 40,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-05-01",
+          "end": "2018-05-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 38,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2018-08-01",
+          "end": "2018-08-31",
+          "description": "Temporada 3 - Ep. 5-10"
+        }
+      ]
+    },
+    {
+      "itemId": 15,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2019-01-01",
+          "end": "2019-01-31",
+          "description": "Temporada 6"
+        },
+        {
+          "human": "FECHA",
+          "start": "2019-02-01",
+          "end": "2020-12-31",
+          "description": "Viaje al pasado (1931-1983) y vuelta al presente - Temporada 7"
+        }
+      ]
+    },
+    {
+      "itemId": 41,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2020-11-01",
+          "end": "2020-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 42,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2023-10-01",
+          "end": "2023-10-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 43,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2023-10-01",
+          "end": "2023-10-31",
+          "description": "Loki se escapa de Endgame a la AVT/Vacío/Final del tiempo - Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 44,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2023-10-01",
+          "end": "2023-10-31",
+          "description": "Tiene lugar después de que Loki iniciase el Multiverso en “Loki” - Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 45,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2023-10-01",
+          "end": "2023-10-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 46,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2023-11-01",
+          "end": "2023-11-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 47,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2024-03-01",
+          "end": "2024-04-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 48,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2024-04-01",
+          "end": "2024-05-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 49,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2024-06-01",
+          "end": "2024-06-01",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 50,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2024-06-02",
+          "end": "2024-07-31",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 51,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2024-11-01",
+          "end": "2024-11-30",
+          "description": null
+        }
+      ]
+    },
+    {
+      "itemId": 52,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2024-12-01",
+          "end": "2024-12-31",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 53,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2025-04-01",
+          "end": "2025-04-30",
+          "description": "Temporada 1"
+        }
+      ]
+    },
+    {
+      "itemId": 54,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "description": "PENDIENTE DE CONFIRMACIÓN"
+        }
+      ]
+    },
+    {
+      "itemId": 55,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2025-11-01",
+          "end": "2025-11-30",
+          "description": "PENDIENTE DE CONFIRMACIÓN"
+        }
+      ]
+    },
+    {
+      "itemId": 56,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    },
+    {
+      "itemId": 57,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    },
+    {
+      "itemId": 58,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    },
+    {
+      "itemId": 59,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    },
+    {
+      "itemId": 60,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    },
+    {
+      "itemId": 61,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    },
+    {
+      "itemId": 62,
+      "dates": [
+        {
+          "human": "FECHA",
+          "start": "2026-01-01",
+          "end": "2026-12-30",
+          "description": "NO HAY INFORMACIÓN TODAVÍA"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "type": "movie",
+      "title": "Capitán América: El Primer Vengador",
+      "release_date": "2011-08-05",
+      "description": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores.",
+      "director": "Joe Johnston",
+      "phase": 1,
+      "post_credit_scenes": 1,
+      "youtube_id": "YqEJ0jpFvSU",
+      "imdb_id": "tt0458339",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "short",
+      "title": "Corto Marvel: Agente Carter",
+      "release_date": "2013-09-03",
+      "description": "Nos situamos un año después tras el final de 'Capitán América: El primer Vengador' con la agente Peggy Carter persiguiendo algo llamado Zodiac.",
+      "director": "Louis D'Esposito",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt3067038",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "tv",
+      "title": "Agente Carter",
+      "release_date": "2015-02-24",
+      "description": "Estamos en 1946 y la paz ha significado un revés para la agente Carter al verse marginada cuando los hombres vuelven del extranjero. Trabajando como agente secreta en la R.C.E., Peggy se ve haciendo trabajo administrativo cuando preferiría pasar a la acción y luchar contra los malos. Al mismo tiempo, busca la manera de apañárselas como mujer soltera tras haber perdido al amor de su vida, el Steve Rogers. Cuando un viejo amigo, Howard Stark es acusado injustamente de vender sus armas más letales, se pone en contacto con Peggy para encontrar a los responsables y limpiar su nombre.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt3475734",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "movie",
+      "title": "Capitana Marvel",
+      "release_date": "2019-03-08",
+      "description": "La historia sigue a Carol Danvers mientras se convierte en uno de los héroes más poderosos del universo, cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas. Situada en los años 90, 'Capitana Marvel' es una historia nueva de un período de tiempo nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+      "director": "Ryan Fleck",
+      "phase": 3,
+      "post_credit_scenes": 1,
+      "youtube_id": "MJIz2gf3Wa8",
+      "imdb_id": "tt4154664",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "movie",
+      "title": "Iron Man",
+      "release_date": "2008-04-30",
+      "description": "El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro' para combatir el mal a escala global.",
+      "director": "Jon Favreau",
+      "phase": 1,
+      "post_credit_scenes": 1,
+      "youtube_id": "PmAqcdk4d48",
+      "imdb_id": "tt0371746",
+      "platforms": []
+    },
+    {
+      "id": 6,
+      "type": "movie",
+      "title": "Iron Man 2",
+      "release_date": "2010-04-30",
+      "description": "El mundo sabe que el multimillonario Tony Stark es Iron Man, el superhéroe enmascarado. Sometido a presiones por parte del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man porque teme que esa información pueda caer en manos indeseables.",
+      "director": "Jon Favreau",
+      "phase": 1,
+      "post_credit_scenes": 1,
+      "youtube_id": "2ntqYcKLJME",
+      "imdb_id": "tt1228705",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "short",
+      "title": "El caso único de Marvel: Algo divertido ocurrió de camino al martillo de Thor",
+      "release_date": "2011-01-21",
+      "description": "El agente Coulson se detiene en una tienda donde tiene que lidiar con un robo.",
+      "director": "Leythum",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt2011109",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "movie",
+      "title": "Thor",
+      "release_date": "2011-04-29",
+      "description": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
+      "director": "Kenneth Branagh",
+      "phase": 1,
+      "post_credit_scenes": 1,
+      "youtube_id": "gNOX4SEQ7aM",
+      "imdb_id": "tt0800369",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "movie",
+      "title": "El increíble Hulk",
+      "release_date": "2008-06-20",
+      "description": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra.",
+      "director": "Louis Leterrier",
+      "phase": 1,
+      "post_credit_scenes": 1,
+      "youtube_id": "WI1GgNjJiyw",
+      "imdb_id": "tt0800080",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "short",
+      "title": "Marvel de un vistazo: El consultor",
+      "release_date": "2022-01-21",
+      "description": "El agente Coulson informa al agente Sitwell de que el Consejo de Seguridad Mundial desea que Emil Blonsky sea liberado de prisión para unirse a la Iniciativa Vengadores. Como Nick Furia no desea liberar a Blonsky, los dos agentes deciden enviar a un 'pringado' para que sabotee la reunión...",
+      "director": "Leythum",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt2011118",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "movie",
+      "title": "Los Vengadores",
+      "release_date": "2012-04-27",
+      "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+      "director": "Joss Whedon",
+      "phase": 1,
+      "post_credit_scenes": 2,
+      "youtube_id": "HQIiYqOVTWo",
+      "imdb_id": "tt0848228",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "short",
+      "title": "Marvel extendido: Artículo 47",
+      "release_date": "2022-01-21",
+      "description": "Claire y Benny son una pareja que encuentra una de las armas de los Chitauri después de que Los Vengadores salvan al mundo, decidiendo usar el poder de este artefacto para cometer fechorías y tener una vida llena de lujos y facilidades, al estilo de Bonnie y Clyde. Dos agentes de S.H.I.E.L.D., tienen como misión recuperar el arma conocida como 'Artículo 47'.",
+      "director": "Louis D'Esposito",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt2247732",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "movie",
+      "title": "Iron Man 3",
+      "release_date": "2013-04-26",
+      "description": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+      "director": "Shane Black",
+      "phase": 2,
+      "post_credit_scenes": 1,
+      "youtube_id": "dc1ynDpSVdE",
+      "imdb_id": "tt1300854",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "short",
+      "title": "Corto Marvel: Todos aclaman al Rey",
+      "release_date": "2014-02-04",
+      "description": "Trevor Slattery se ha convertido en un icono infame. También está encerrado en una prisión de alta seguridad. Por suerte, su nuevo perfil le ha comportado la fama y la protección en el interior. El actor ha aceptado de buen grado someterse a una entrevista en profundidad con un director de documentales para que elabore su perfil.",
+      "director": "Drew Pearce",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt2247732",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "tv",
+      "title": "Marvel Agentes de S.H.I.E.L.D.",
+      "release_date": "2013-05-27",
+      "description": "El agente Phil Coulson, de la película “Los vengadores”, regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "q36qH5t9q1g",
+      "imdb_id": "tt2364582",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "movie",
+      "title": "Thor: el mundo oscuro",
+      "release_date": "2013-10-31",
+      "description": "Thor lucha por restablecer el orden en el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa con el propósito de volver a sumir el universo en la oscuridad. Se trata de un villano con el que ni siquiera Odín y Asgard se atreven a enfrentarse; por esa razón, Thor tendrá que emprender un viaje muy peligroso, durante el cual se reunirá con Jane Foster y la obligará a sacrificarlo todo para salvar el mundo.",
+      "director": "Alan Taylor",
+      "phase": 2,
+      "post_credit_scenes": 2,
+      "youtube_id": "PmAqcdk4d48",
+      "imdb_id": "tt1981115",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "movie",
+      "title": "Capitán América: El soldado de invierno",
+      "release_date": "2014-03-28",
+      "description": "Capitán América, Viuda Negra y un nuevo aliado, Falcon, se enfrentan a un enemigo inesperado mientras intentan sacar a la luz una conspiración que pone en riesgo al mundo.",
+      "director": "Anthony Russo",
+      "phase": 2,
+      "post_credit_scenes": 2,
+      "youtube_id": "jwOp9DLfsqk",
+      "imdb_id": "tt1843866",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "movie",
+      "title": "Guardianes de la galaxia",
+      "release_date": "2014-08-14",
+      "description": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
+      "director": "James Gunn",
+      "phase": 2,
+      "post_credit_scenes": 2,
+      "youtube_id": "F60FZKt_36s",
+      "imdb_id": "tt2015381",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "movie",
+      "title": "Guardianes de la galaxia Vol. 2",
+      "release_date": "2017-04-28",
+      "description": "Una poderosa raza alienígena contrata a los Guardianes para que protejan sus valiosas baterías de energía, pero, cuando Rocket las roba, los alienígenas envían a sus tropas de combate a vengarse de ellos. Mientras tratan de escapar con vida, intentan resolver el misterio de los verdaderos orígenes de Peter Quill.",
+      "director": "James Gunn",
+      "phase": 3,
+      "post_credit_scenes": 5,
+      "youtube_id": "bkVu4cyKRUA",
+      "imdb_id": "tt3896198",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "tv",
+      "title": "Daredevil",
+      "release_date": "2015-10-19",
+      "description": "Daredevil es una serie cargada de acción que sigue las aventuras de Matt Murdock -abogado de día y superhéroe de noche- en el barrio de la ciudad de Nueva York conocido como Hell’s Kitchen. Matt quedó ciego tras un accidente de niño, pero ahora tiene los otros cuatro sentidos incrementados y se dedica a luchar contra la injusticia como el superhéroe Daredevil.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "cDUKA6Tqiw8",
+      "imdb_id": "tt3322312",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "tv",
+      "title": "Jessica Jones",
+      "release_date": "2019-06-14",
+      "description": "Jessica Jones, es una serie de televisión estadounidense creada por Netflix y basada en el personaje del mismo nombre de los cómics de Marvel. Una mujer con superpoderes decide renegar de ellos e iniciar una vida nueva ejerciendo como detective privada.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "guq_WrMPvis",
+      "imdb_id": "tt2357547",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "movie",
+      "title": "Vengadores: La era de Ultrón",
+      "release_date": "2015-04-29",
+      "description": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+      "director": "Joss Whedon",
+      "phase": 2,
+      "post_credit_scenes": 1,
+      "youtube_id": "kS94gCsbtzs",
+      "imdb_id": "tt2395427",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "web",
+      "title": "WHIH News Front",
+      "release_date": "2015-07-02",
+      "description": "WHiH Newsfront es una serie web estadounidense basada en el programa de noticias en línea del mismo nombre con apoyo de la red de televisión WHiH World News. Fue emitida en Youtube y formó parte de las campañas promocionales de las películas Ant-Man y Captain America: Civil War. Se emitió en julio de 2015 y fue renovado en abril de 2016.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "TXNut1uactc",
+      "imdb_id": "tt5296048",
+      "platforms": [
+        "youtube"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "movie",
+      "title": "Ant-Man",
+      "release_date": "2015-08-14",
+      "description": "Armado con la asombrosa capacidad de reducir su tamaño a la dimensiones de un insecto, el estafador Scott Lang debe sacar a relucir al héroe que lleva dentro y ayudar a su mentor, el doctor Hank Pym, a proteger de una nueva generación de amenazas el secreto que se esconde tras el traje de Ant-Man, con un casco que le permite comunicarse con las hormigas. A pesar de los obstáculos aparentemente insuperables que les acechan, Pym y Lang deben planear y llevar a cabo un atraco para intentar salvar al mundo.",
+      "director": "Peyton Reed",
+      "phase": 2,
+      "post_credit_scenes": 2,
+      "youtube_id": "HovLdTD4EfY",
+      "imdb_id": "tt0478970",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "tv",
+      "title": "Luke Cage",
+      "release_date": "2016-09-30",
+      "description": "Un expresidiario encapuchado y de piel impenetrable lucha por limpiar su nombre y salvar su barrio. Él no buscaba pelea, pero la gente necesita un héroe.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "WoGxnuCU90c",
+      "imdb_id": "tt3322314",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "movie",
+      "title": "Capitán América: Civil War",
+      "release_date": "2016-04-29",
+      "description": "“Capitán América: Civil War” continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+      "director": "Anthony Russo, Joe Russo",
+      "phase": 3,
+      "post_credit_scenes": 2,
+      "youtube_id": "LuOLcuKVFwY",
+      "imdb_id": "tt3498820",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "movie",
+      "title": "Viuda Negra",
+      "release_date": "2021-07-09",
+      "description": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+      "director": "Cate Shortland",
+      "phase": 4,
+      "post_credit_scenes": 1,
+      "youtube_id": "2zHzRBDlWxk",
+      "imdb_id": "tt3480822",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 28,
+      "type": "movie",
+      "title": "Black Panther",
+      "release_date": "2018-02-16",
+      "description": "“Black Panther” cuenta la historia de T'Challa quien, después de los acontecimientos de “Capitán América: Civil War”, vuelve a casa, a la nación de Wakanda, aislada y muy avanzada tecnológicamente, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+      "director": "Cate Shortland",
+      "phase": 3,
+      "post_credit_scenes": 2,
+      "youtube_id": "JK-wAfAvJ0g",
+      "imdb_id": "tt1825683",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 29,
+      "type": "tv",
+      "title": "Iron Fist",
+      "release_date": "2017-03-17",
+      "description": "Danny Rand reaparece 15 años después de ser dado por muerto. Ahora, armado con un increíble poder, tratará de recuperar su pasado y cumplir su destino.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "XOiuiSF0h30",
+      "imdb_id": "tt3322310",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 30,
+      "type": "tv",
+      "title": "Inhumans",
+      "release_date": "2017-09-30",
+      "description": "Se centra en la historia de la familia real de Áttilan, la colonia de una raza superior de humanos genéticamente modificados que habitan en una región oculta de la Luna. El silencioso Rayo Negro, capaz de destruir una ciudad entera con un susurro, gobierna junto a Medusa, con una larga melena de fuerza descomunal. Convencido de que los humanos suponen una amenaza, Máximus, el maquiavélico hermano del rey, encabeza una rebelión que divide a la familia.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "lDUGUOMt040",
+      "imdb_id": "tt4154858",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "movie",
+      "title": "Spider-Man: Homecoming",
+      "release_date": "2017-07-28",
+      "description": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+      "director": "Jon Watts",
+      "phase": 3,
+      "post_credit_scenes": 2,
+      "youtube_id": "grusgXCahH8",
+      "imdb_id": "tt2250912",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 32,
+      "type": "tv",
+      "title": "The Defenders",
+      "release_date": "2017-08-18",
+      "description": "Los superheroes Daredevil, Jessica Jones, Iron Fist y Luke Cage forman equipo para luchar contra el crimen en la ciudad de Nueva York.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "ugIogedUkYM",
+      "imdb_id": "tt4230076",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "tv",
+      "title": "The Punisher",
+      "release_date": "2017-11-17",
+      "description": "Un antiguo marine decidido a castigar a los asesinos de su familia termina atrapado en una conspiración militar.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "36liPigajVE",
+      "imdb_id": "tt5675620",
+      "platforms": [
+        "netflix"
+      ]
+    },
+    {
+      "id": 34,
+      "type": "movie",
+      "title": "Doctor Strange",
+      "release_date": "2016-10-28",
+      "description": "La vida del Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le deja muy malheridas sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar esperanza y una cura en un lugar impensable: una comunidad aislada en Nepal llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y prestigio o dejarlo todo, para defender el mundo como el mago más poderoso del planeta.",
+      "director": "Scott Derrickson",
+      "phase": 3,
+      "post_credit_scenes": 2,
+      "youtube_id": "PqTILYUNU3s",
+      "imdb_id": "tt1211837",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 35,
+      "type": "tv",
+      "title": "Capa y Puñal",
+      "release_date": "2018-06-07",
+      "description": "Tandy Bowen y Tyrone Johnson eran dos chicos que habían huido de casa. Fueron secuestrados junto con otros jóvenes y usados como conejillos de indias de una potente nueva droga, por un grupo de traficantes liderada por Cabello de Plata, que les dio sus poderes: a Tyrone lo envolvió la oscuridad y Tandy recibió el don de la luz. Con sus poderes, prometieron proteger a la gente de las drogas y se convirtieron en los vigilantes conocidos como Cloak and Dagger.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "j-3KduDLvCg",
+      "imdb_id": "tt5614844",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "web",
+      "title": "Agentes de S.H.I.E.L.D.: Slingshot",
+      "release_date": "2016-12-13",
+      "description": "Agentes de SHIELD: Slingshot se lleva a cabo poco antes del comienzo de la temporada 4 de Marvel, Agentes de SHIELD. La serie está protagonizada por Elena “Yo-Yo” Rodríguez, una Inhumana con la capacidad de moverse a súper-velocidad. Como persona con poderes, debe firmar los Acuerdos de Sokovia. Sin embargo, las restricciones de los Acuerdos están en conflicto directo con una misión personal que ella está desesperada por cumplir, una que probará sus habilidades e incluirá encuentros tensos con miembros de SHIELD.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "crYyrW5AvBM",
+      "imdb_id": "tt6313900",
+      "platforms": [
+        "abc"
+      ]
+    },
+    {
+      "id": 37,
+      "type": "movie",
+      "title": "Thor: Ragnarok",
+      "release_date": "2017-10-27",
+      "description": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
+      "director": "Taika Waititi",
+      "phase": 3,
+      "post_credit_scenes": 2,
+      "youtube_id": "Cdp7Xo0x0Uw",
+      "imdb_id": "tt3501632",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 38,
+      "type": "tv",
+      "title": "Runaways",
+      "release_date": "2017-11-22",
+      "description": "Un grupo de adolescentes descubre que tienen una cosa en común: sus padres pertenecen a un grupo de supervillanos llamado Pride. Al saber esto, los chicos se ven obligados a unirse para enfrentarse a su enemigo común a pesar de que no se soportan entre ellos. Así comienzan sus andanzas como superhéroes nóveles cuyo objetivo es acabar con Pride y todos sus miembros. Sin embargo, no estarán solos ya que conocerán a un grupo de ex-superhéroes que se hacen llamar Excelsior. Este grupo se dedica a ayudar a los jóvenes con superpoderes para que se integren en la sociedad y se olviden de salvar el mundo porque “eso es cosa de adultos”.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "0yP9NR8p4o8",
+      "imdb_id": "tt1236246",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 39,
+      "type": "movie",
+      "title": "Ant-Man y la Avispa",
+      "release_date": "2018-07-04",
+      "description": "Mientras Scott Lang se convierte en un súper héroe y en un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que encuentra a Ant-Man luchando junto a The Wasp para descubrir secretos de su pasado.",
+      "director": "Peyton Reed",
+      "phase": 3,
+      "post_credit_scenes": 2,
+      "youtube_id": "sc4XCKre4mo",
+      "imdb_id": "tt5095030",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 40,
+      "type": "movie",
+      "title": "Vengadores: Infinity War",
+      "release_date": "2018-04-27",
+      "description": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+      "director": "Joe Russo",
+      "phase": 3,
+      "post_credit_scenes": 1,
+      "youtube_id": "jp8AyRmGWbI",
+      "imdb_id": "tt4154756",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 41,
+      "type": "tv",
+      "title": "Helstrom",
+      "release_date": "2021-02-23",
+      "description": "La historia se centra en los hermanos gemelos Daimon y Ana Helstrom, hijos de un asesino en serie con un increíble poder y un halo de misterio que le sigue. A pesar de su complicada situación familiar, están decididos a sacar el mayor partido posible a habilidades y aptitudes únicas que poseen. Haciendo uso de sus dotes, la pareja de hermanos persigue a lo peor de la humanidad mientras aprenden a convivir en su complicada dinámica y poco a poco, la fama les va alcanzando.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "OgmaSpxjUd0",
+      "imdb_id": "tt10266874",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 42,
+      "type": "movie",
+      "title": "Vengadores: Endgame",
+      "release_date": "2019-04-25",
+      "description": "Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga “Vengadores”.",
+      "director": "Joe Russo",
+      "phase": 3,
+      "post_credit_scenes": 1,
+      "youtube_id": "UQ3bqYKnyhM",
+      "imdb_id": "tt4154796",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 43,
+      "type": "tv",
+      "title": "Loki",
+      "release_date": "2021-06-09",
+      "description": "La nueva serie “Loki”, de Marvel Studios, empieza allí donde terminó “Vengadores: Endgame”. En ella, el voluble villano Loki vuelve a ganarse el apodo de Dios del Engaño.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "uz1CREWyISo",
+      "imdb_id": "tt9140554",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "tv",
+      "title": "¿Qué pasaría si...?",
+      "release_date": "2021-08-11",
+      "description": "Inspirándose en los cómics del mismo nombre, cada episodio explora un momento crucial del Universo Cinematográfico Marvel.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "Q4og7q_BWUU",
+      "imdb_id": "tt10168312",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 45,
+      "type": "movie",
+      "title": "Eternals",
+      "release_date": "2021-11-05",
+      "description": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+      "director": "Chloé Zhao",
+      "phase": 4,
+      "post_credit_scenes": 2,
+      "youtube_id": "f7aFqw3eYSs",
+      "imdb_id": "tt9032400",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 46,
+      "type": "tv",
+      "title": "Bruja Escarlata y Visión",
+      "release_date": "2021-01-15",
+      "description": "Bruja Escarlata y Visión de Marvel Studios combina el estilo de «sitcom clásicas» con el Universo Cinematográfico de Marvel. Wanda Maximoff y Visión, dos seres súper poderosos que viven sus vidas cotidianas ideales, comienzan a sospechar que no todo es como parece.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "tCE4CpxlaqE",
+      "imdb_id": "tt9140560",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 47,
+      "type": "movie",
+      "title": "Shang-Chi y la leyenda de los Diez Anillos",
+      "release_date": "2021-09-03",
+      "description": "Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.",
+      "director": "Destin Daniel Cretton",
+      "phase": 4,
+      "post_credit_scenes": 2,
+      "youtube_id": "MQRF_YezCgA",
+      "imdb_id": "tt9376612",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 48,
+      "type": "tv",
+      "title": "Falcon y el Soldado de Invierno",
+      "release_date": "2021-04-19",
+      "description": "Siguiendo los eventos de 'Vengadores: Endgame', Sam Wilson/Falcon y Bucky Barnes/Soldado de Invierno se unen en una aventura global que pondrá a prueba sus habilidades... y su paciencia",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "BHZzb1YtnBo",
+      "imdb_id": "tt9208876",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 49,
+      "type": "short",
+      "title": "La lista de cosas pendientes de Peter",
+      "release_date": "2019-09-17",
+      "description": "En la víspera de su partida a Europa, Peter Parker le dice a Ned Leeds que tiene varias cosas que hacer antes de que se vayan.",
+      "director": "Jon Watts",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt11107678",
+      "platforms": []
+    },
+    {
+      "id": 50,
+      "type": "movie",
+      "title": "Spider-Man: Lejos de casa",
+      "release_date": "2019-07-05",
+      "description": "Peter Parker decide irse junto a Michelle Jones, Ned y el resto de sus amigos a pasar unas vacaciones a Europa después de los eventos ocurridos en Vengadores: EndGame. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuándo es reclutado por Nick Fury para unirse a Mysterio (un humano que proviene de la Tierra 833, una dimensión del multiverso, que tuvo su primera aparición en Doctor Strange) para luchar contra los elementales (cuatro entes inmortales que vienen de la misma dimensión y que dominan los cuatro elementos de la naturaleza, el fuego, el agua, el aire y la tierra) . En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+      "director": "Destin Daniel Cretton",
+      "phase": 4,
+      "post_credit_scenes": 2,
+      "youtube_id": "Sz-CfAthSVk",
+      "imdb_id": "tt2250912",
+      "platforms": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 51,
+      "type": "movie",
+      "title": "Spider-Man: Sin camino a casa",
+      "release_date": "2021-12-16",
+      "description": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "director": "Jon Watts",
+      "phase": 4,
+      "post_credit_scenes": 2,
+      "youtube_id": "Df00ZNYEcAY",
+      "imdb_id": "tt10872600",
+      "platforms": []
+    },
+    {
+      "id": 52,
+      "type": "tv",
+      "title": "Ojo de Halcón",
+      "release_date": "2021-11-24",
+      "description": "Después del Lapso en Nueva York, el exvengador Clint Burton (alias Ojo de Halcón) debe cumplir una misión aparentemente sencilla: volver con su familia por Navidad. Pero una amenaza del pasado le obligará a aliarse a regañadientes con Kate Bishop, una hábil arquera de 22 años (y su mayor admiradora), para destapar una conspiración criminal.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "JTEMQlEI2g0",
+      "imdb_id": "tt10160804",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 53,
+      "type": "tv",
+      "title": "Caballero luna",
+      "release_date": "2022-03-30",
+      "description": "Steven Grant, un amable empleado de una tienda de regalos, sufre pérdidas de memoria y experimenta recuerdos de otra vida. Steven descubre que tiene un trastorno de identidad disociativo y que comparte cuerpo con el mercenario Marc Spector. A medida que los enemigos de Steven/Marc van convergiendo, debe lidiar con la complejidad de sus identidades mientras se sumerge en un misterio letal que habita entre los poderosos dioses de Egipto.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "C9Z75wfjxCU",
+      "imdb_id": "tt10234724",
+      "platforms": [
+        "disney"
+      ]
+    },
+    {
+      "id": 54,
+      "type": "movie",
+      "title": "Doctor Strange en el Multiverso de la Locura",
+      "release_date": "2022-05-06",
+      "description": "Doctor Strange, con la ayuda de viejos y nuevos aliados místicos, atraviesa las alucinantes y peligrosas realidades alternativas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
+      "director": "Sam Raimi",
+      "phase": 4,
+      "post_credit_scenes": null,
+      "youtube_id": "LZbQJVO1Dk8",
+      "imdb_id": "tt9419884",
+      "platforms": []
+    },
+    {
+      "id": 55,
+      "type": "tv",
+      "title": "Secret Invasion",
+      "release_date": "2022-12-31",
+      "description": "Nick Furia y Talos descubren una facción de Skrulls que cambian de forma y que llevan años infiltrándose en la Tierra.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": "PZGpSnVwYNg",
+      "imdb_id": "tt13157618",
+      "platforms": []
+    },
+    {
+      "id": 56,
+      "type": "movie",
+      "title": "Thor: Love and Thunder",
+      "release_date": "2022-07-08",
+      "description": "La cuarta entrega de la serie de películas de Thor de Marvel Studios.",
+      "director": "Taika Waititi",
+      "phase": 4,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt10648342",
+      "platforms": []
+    },
+    {
+      "id": 57,
+      "type": "movie",
+      "title": "Blade",
+      "release_date": null,
+      "description": "Película protagonizada por Mahershala Ali, encarnando a Blade, el famoso cazavampiros de Marvel Comics, creado por el escritor Marv Wolfman y el dibujante Gene Colan, su primera aparición fue en el comic book La tumba de Drácula número 10 (julio de 1973) como un personaje secundario.",
+      "director": null,
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt10671440",
+      "platforms": []
+    },
+    {
+      "id": 58,
+      "type": "movie",
+      "title": "Ant-Man y la Avispa: Quantumania",
+      "release_date": "2023-07-28",
+      "description": "Las subsecuentes aventuras de Ant-Man y la Avispa",
+      "director": "Peyton Reed",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt10954600",
+      "platforms": []
+    },
+    {
+      "id": 59,
+      "type": "movie",
+      "title": "Fantastic Four",
+      "release_date": null,
+      "description": "Una de las familias más icónicas de Marvel llega a la gran pantalla: ¡los Cuatro Fantásticos.",
+      "director": "Jon Watts",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt10676052",
+      "platforms": []
+    },
+    {
+      "id": 60,
+      "type": "movie",
+      "title": "Guardianes de la galaxia Vol. 3",
+      "release_date": "2023-05-05",
+      "description": "Sinopsis pendiente de confirmación, en ésta tercera entrega se contará con la presencia de Adam Warlock, un ser superpoderoso creado por Ayesha, la lider de Los Soberanos",
+      "director": "James Gunn",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt6791350",
+      "platforms": []
+    },
+    {
+      "id": 61,
+      "type": "movie",
+      "title": "Los Marvel",
+      "release_date": "2023-02-17",
+      "description": "Secuela del título de 2019 “Capitana Marvel”.",
+      "director": "Nia DaCosta",
+      "phase": null,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt10676048",
+      "platforms": []
+    },
+    {
+      "id": 62,
+      "type": "movie",
+      "title": "Black Panther: Wakanda por siempre",
+      "release_date": "2022-11-11",
+      "description": "Segunda entrega de Black Panther protagonizada por el actor Chadwick Boseman, sinopsis pendiente por confirmar",
+      "director": "Ryan Coogler",
+      "phase": 4,
+      "post_credit_scenes": null,
+      "youtube_id": null,
+      "imdb_id": "tt9114286",
+      "platforms": []
+    }
+  ],
+  "platforms": {
+    "disney": {
+      "name": "Disney Plus",
+      "url": "https://www.disneyplus.com/"
+    },
+    "netflix": {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    "youtube": {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/"
+    },
+    "abc": {
+      "name": "ABC",
+      "url": "https://abc.com/"
+    },
+    "amazon": {
+      "name": "Prime Video",
+      "url": "https://www.primevideo.com/"
+    }
+  }
+}
