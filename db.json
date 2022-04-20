@@ -1934,26 +1934,31 @@
       "platforms": []
     }
   ],
-  "platforms": {
-    "disney": {
+  "platforms": [
+    {
+      "id": "disney",
       "name": "Disney Plus",
       "url": "https://www.disneyplus.com/"
     },
-    "netflix": {
+    {
+      "id": "netflix",
       "name": "Netflix",
       "url": "https://www.netflix.com/"
     },
-    "youtube": {
+    {
+      "id": "youtube",
       "name": "YouTube",
       "url": "https://www.youtube.com/"
     },
-    "abc": {
+    {
+      "id": "abc",
       "name": "ABC",
       "url": "https://abc.com/"
     },
-    "amazon": {
+    {
+      "id": "amazon",
       "name": "Prime Video",
       "url": "https://www.primevideo.com/"
     }
-  }
+  ]
 }

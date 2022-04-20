@@ -1,7 +1,7 @@
 function ResourceItem({ name, length }) {
   return `
     <li>
-      <a href="${name}">/${name}</a>
+      <code>GET</code> <a href="${name}">/${name}</a>
       <sup>${length ? `${length}x` : 'object'}</sup>
     </li>
   `
@@ -29,7 +29,7 @@ function NoResources() {
 function ResourcesBlock({ db }) {
   return `
     <div>
-      <h1>Resources</h1>
+      <h3>Recursos</h3>
       ${Object.keys(db).length ? ResourceList({ db }) : NoResources()}
     </div>
   `
@@ -48,7 +48,7 @@ function CustomRoutesBlock({ customRoutes }) {
   if (rules.length) {
     return `
       <div>
-        <h1>Custom Routes</h1>
+        <h1>Rutas personalizadas</h1>
         <table>
           ${rules
         .map(
@@ -64,7 +64,7 @@ function CustomRoutesBlock({ customRoutes }) {
     `
   }
 }
-
+/*
 window
   .fetch('__rules')
   .then((response) => response.json())
@@ -74,3 +74,4 @@ window
       customRoutes,
     }))
   )
+*/
